@@ -90,13 +90,13 @@ function main() {
         squares[i].addEventListener("click", function() {
         const clickedColor = this.style.backgroundColor;
         if (clickedColor===pickedColor) {
-            message.textContent = "Correct! xD";
+            message.textContent = "That is correct!";
             changeColors(pickedColor);
             title.style.backgroundColor = pickedColor;
             resetButton.textContent = "Play Again?"
         } else {
             this.style.backgroundColor = "black";
-            message.textContent = "You Suck!"
+            message.textContent = "Try Again"
         }
          })
     };
