@@ -1,7 +1,7 @@
 # Kolor Game
 
 View here:</br >
-[![WEBSITE](https://jezraelhope.github.io/colorGame/)
+[WEBSITE](https://jezraelhope.github.io/colorGame/)
 
 ## Description
 A simple game created as a code alomg challenge with [Dr. Joshua Bastean](https://www.youtube.com/watch?v=5FD_A9P87Ek&list=PLQSmIhc0GVPPhpBAC3y6xChtOz3RJ8abN&index=88). The aim of the game is to guess which color among the tiles matches the indicated RGB values. It has 2 levels of difficulty: 3 tiles for easy and 6 tiles for hard.
